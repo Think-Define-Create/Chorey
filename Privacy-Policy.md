@@ -48,6 +48,3 @@ Chorey Inc. (“we,” “our,” or “us”) respects your privacy. This polic
 
 ## Contact
 
-- **Company:** Chorey Inc.
-- **Email:** support@chorey.app
-- **Website:** www.chorey.app
