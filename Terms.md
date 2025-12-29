@@ -33,8 +33,3 @@ By using Chorey, you agree to these terms. Please read them carefully.
 
 - We may update these Terms. Continued use means acceptance of the updated Terms.
 
-## Contact
-
-- **Company:** Chorey Inc.
-- **Email:** support@chorey.app
-- **Website:** www.chorey.app
